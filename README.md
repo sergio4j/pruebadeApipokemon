@@ -1,3 +1,3 @@
 # pruebadeApipokemon
 
-## Podeis consuntar en el siguiente enlace: https://sergiorodriguezweb.es/api-rest-ejemplo/
+## Podéis consultar en el siguiente enlace: https://sergiorodriguezweb.es/api-rest-ejemplo/
